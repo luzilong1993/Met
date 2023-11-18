@@ -30,12 +30,7 @@ export const Primary: Story = {
 };
 
 export const Basic: Story = {
-  args: {
-    type: 'dashed',
-    children: 'Button'
-  },
   render(args) {
-    
    return (
     <>
       <Button type="primary">Primary Button</Button>
