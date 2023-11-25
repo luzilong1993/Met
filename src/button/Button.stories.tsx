@@ -44,11 +44,11 @@ export const Basic: Story = {
 }
 
 
-export const Secondary: Story = {
-  args: {
-    children: 'Button',
-  },
-};
+// export const Secondary: Story = {
+//   args: {
+//     children: 'Button',
+//   },
+// };
 
 // export const Large: Story = {
 //   args: {

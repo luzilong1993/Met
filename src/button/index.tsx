@@ -1,7 +1,7 @@
 import React, { ReactNode } from 'react';
 import classNames from 'classnames';
 
-import './button.css'
+import './index.scss'
 
 interface buttonProps extends React.HtmlHTMLAttributes<HTMLButtonElement> {
     className?: string;
